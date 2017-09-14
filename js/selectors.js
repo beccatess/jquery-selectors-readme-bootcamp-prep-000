@@ -3,4 +3,4 @@ function paragraphSelector(){return $('p')}
 function lastImageSelector(){return $('img:last')}
 function ninjaBabySelector(){return $('#baby-ninja')}
 function divSelector(){return $('.pics div')}
-function firstListItem(){return $('#pic-list ul li:first-child')}
+function firstListItem(){return $('ul li:first-child')}
